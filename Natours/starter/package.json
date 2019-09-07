@@ -1,0 +1,16 @@
+{
+  "name": "starter",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "keywords": [],
+  "author": "Rafael Ribeiro de Sousa <faelribeirodesousa@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "node-sass": "^4.12.0"
+  },
+  "dependencies": {}
+}
